@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/learngowithtests.iml" filepath="$PROJECT_DIR$/learngowithtests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learngowithtdd.iml" filepath="$PROJECT_DIR$/learngowithtdd.iml" />
     </modules>
   </component>
 </project>
