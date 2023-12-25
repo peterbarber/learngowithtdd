@@ -1,4 +1,4 @@
-package main
+package integers
 
 const (
 	spanish = "Spanish"
